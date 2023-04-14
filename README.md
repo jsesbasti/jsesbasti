@@ -16,7 +16,7 @@
 
 [![jsebasti's 42 ft_printf Score](https://badge42.vercel.app/api/v2/clgfxzmei000608mkz2e220n3/project/2826826)](https://github.com/JaeSeoKim/badge42)
 
-## ✅😇 ![GET_NEXT_LINE] 😇✅
+## ✅😇 ![GET_NEXT_LINE](https://github.com/jsesbasti/get_next_line) 😇✅
 
 [![jsebasti's 42 get_next_line Score](https://badge42.vercel.app/api/v2/clgfxzmei000608mkz2e220n3/project/2854936)](https://github.com/JaeSeoKim/badge42)
 
