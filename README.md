@@ -11,4 +11,4 @@
 
 ## ✅😇 ![FT_PRINTF](https://github.com/jsesbasti/ft_printf) 😇✅
 
-jsebasti's 42 ft_printf Score - [![jsebasti's 42 ft_printf Score](https://badge42.vercel.app/api/v2/cl0yx1v0j0158ns5shlllmdvb/project/2004625)](https://github.com/JaeSeoKim/badge42)
+jsebasti's 42 ft_printf Score - [![jsebasti's 42 ft_printf Score](https://badge42.vercel.app/api/v2/cl0yx1v0j0158ns5shlllmdvb/project/2004625)](https://github.com/jsebasti/badge42)
