@@ -24,7 +24,7 @@
 
 [![jsebasti's 42 Born2beroot Score](https://badge42.vercel.app/api/v2/clgfxzmei000608mkz2e220n3/project/2826919)](https://github.com/JaeSeoKim/badge42)
 
-## ✅😇 ![PUSH_SWAP] 😇✅
+## ✅😇 ![PUSH_SWAP](https://github.com/jsesbasti/push_swap) 😇✅
 
 [![jsebasti's 42 push_swap Score](https://badge42.vercel.app/api/v2/clgfxzmei000608mkz2e220n3/project/2876851)](https://github.com/JaeSeoKim/badge42)
 
