@@ -28,7 +28,7 @@
 
 [![jsebasti's 42 push_swap Score](https://badge42.vercel.app/api/v2/clgfxzmei000608mkz2e220n3/project/2876851)](https://github.com/JaeSeoKim/badge42)
 
-## ✅😇 ![MINITALK] 😇✅
+## ✅😇 ![MINITALK](https://github.com/jsesbasti/Minitalk) 😇✅
 
 [![jsebasti's 42 minitalk Score](https://badge42.vercel.app/api/v2/clgfxzmei000608mkz2e220n3/project/2903525)](https://github.com/JaeSeoKim/badge42)
 
