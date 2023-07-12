@@ -12,7 +12,7 @@
 
 [![jsebasti's 42 Libft Score](https://badge42.vercel.app/api/v2/clgfxzmei000608mkz2e220n3/project/2783807)](https://github.com/JaeSeoKim/badge42)
 
-## ![FT_PRINTF](https://github.com/jsesbasti/ft_printf) | ![GET_NEXT_LINE](https://github.com/jsesbasti/get_next_line) | ![BORN_2_BE_ROOT] 😇✅
+## ![FT_PRINTF](https://github.com/jsesbasti/ft_printf) | ![GET_NEXT_LINE](https://github.com/jsesbasti/get_next_line) | BORN_2_BE_ROOT 😇✅
 
 [![jsebasti's 42 ft_printf Score](https://badge42.vercel.app/api/v2/clgfxzmei000608mkz2e220n3/project/2826826)](https://github.com/JaeSeoKim/badge42) | [![jsebasti's 42 get_next_line Score](https://badge42.vercel.app/api/v2/clgfxzmei000608mkz2e220n3/project/2854936)](https://github.com/JaeSeoKim/badge42) | [![jsebasti's 42 Born2beroot Score](https://badge42.vercel.app/api/v2/clgfxzmei000608mkz2e220n3/project/2826919)](https://github.com/JaeSeoKim/badge42)
 
