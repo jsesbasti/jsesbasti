@@ -36,7 +36,7 @@
 
 [![jsebasti's 42 FdF Score](https://badge42.vercel.app/api/v2/clgfxzmei000608mkz2e220n3/project/2903526)](https://github.com/JaeSeoKim/badge42)
 
-## ✅😇 ![FDF](https://github.com/jsesbasti/Philosophers) 😇✅
+## ✅😇 ![PHILOSOPHERS](https://github.com/jsesbasti/Philosophers) 😇✅
 
-[![jsebasti's 42 Philosohers Score](https://badge42.vercel.app/api/v2/clgfxzmei000608mkz2e220n3/project/2903526)](https://github.com/JaeSeoKim/badge42)
+[![jsebasti's 42 Philosophers Score](https://badge42.vercel.app/api/v2/clgfxzmei000608mkz2e220n3/project/3142066)](https://github.com/JaeSeoKim/badge42)
 
