@@ -2,7 +2,7 @@
 
 ## ❗️ 42Barcelona Student ❗️
 
-[[jsebasti's 42 stats](https://badge42.vercel.app/api/v2/clgfxzmei000608mkz2e220n3/stats?cursusId=21&coalitionId=204)](https://github.com/JaeSeoKim/badge42)
+[jsebasti's 42 stats](https://badge42.vercel.app/api/v2/clgfxzmei000608mkz2e220n3/stats?cursusId=21&coalitionId=204)
 
 ## ▪️ Github stats 📊
 
