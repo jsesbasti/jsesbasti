@@ -12,4 +12,4 @@
 
 ## [PHILOSOPHERS](https://github.com/jsesbasti/Philosophers) 😇✅
 
-## [CPP00](https://github.com/jsesbasti/CPP42/tree/master/cpp00)
+## [CPP00](https://github.com/jsesbasti/CPP42/tree/master/cpp00) | [CPP01](https://github.com/jsesbasti/CPP42/tree/master/cpp01) | [CPP02](https://github.com/jsesbasti/CPP42/tree/master/cpp02) | [CPP03](https://github.com/jsesbasti/CPP42/tree/master/cpp03) | [CPP04](https://github.com/jsesbasti/CPP42/tree/master/cpp04)
