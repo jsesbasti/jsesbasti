@@ -12,7 +12,9 @@ De los proyectos anteriormente nombrados, tanto [ft_printf](https://github.com/j
 
 ## [FDF](https://github.com/jsesbasti/FDF) | [PUSH_SWAP](https://github.com/jsesbasti/push_swap) | [MINITALK](https://github.com/jsesbasti/Minitalk) 😇✅
 En estos ejercicios, aprendemos a desarrollar nuestros primeros algoritmos en el [Push_Swap](https://github.com/jsesbasti/push_swap). Teniendo que ordenar una lista de numeros en la menor cantidad de movimientos posibles con unos movimientos determinados.
+
 En [FDF](https://github.com/jsesbasti/FDF) descubrimos las matematicas que hay detras de una maya de puntos 3D en un programa con una intefaz basica.
+
 Sin embargo en [Minitalk](https://github.com/jsesbasti/Minitalk) podemos observar como el oredenador se comunica entre programas con las señales y jugar un poco con ellas.
 
 ## [PHILOSOPHERS](https://github.com/jsesbasti/Philosophers) | [MINISHELL](https://github.com/jsesbasti/42_minishell) 😇✅
