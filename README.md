@@ -5,7 +5,7 @@
 ![JSEBASTI GitHub stats](https://github-readme-stats.vercel.app/api?username=jsesbasti&show_icons=true&theme=github_dark)
 
 ## [FT_LIBFT](https://github.com/jsesbasti/libft) 😇✅
-Primera libreria con funciones de strings de C
+Libft se trata de un proyecto simple en el que has de crear una libreria de C para el tratamiento de strings.
 
 ## [FT_PRINTF](https://github.com/jsesbasti/ft_printf) | [GET_NEXT_LINE](https://github.com/jsesbasti/get_next_line) | BORN_2_BE_ROOT 😇✅
 
