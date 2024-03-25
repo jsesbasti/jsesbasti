@@ -8,7 +8,9 @@
 [Libft](https://github.com/jsesbasti/libft) se trata de un proyecto simple en el que has de crear una libreria de C para el tratamiento de strings.
 
 ## [FT_PRINTF](https://github.com/jsesbasti/ft_printf) | [GET_NEXT_LINE](https://github.com/jsesbasti/get_next_line) | BORN_2_BE_ROOT 😇✅
-De los proyectos anteriormente nombrados, tanto [ft_printf](https://github.com/jsesbasti/ft_printf) como [get_next_line](https://github.com/jsesbasti/get_next_line), tratan de replicar el comportamiento de funciones ya existentes o no para C como son el printf. Sin embargo tambié se cuenta con un proyecto mas enfocado a sysadmn como es el Born2beRoot. En este ultimo hemos de montar un servidor ssh dentro de una maquina virtual para inicializar-nos con el mundo de la virtualización.
+De los proyectos anteriormente nombrados, tanto [ft_printf](https://github.com/jsesbasti/ft_printf) como [get_next_line](https://github.com/jsesbasti/get_next_line), tratan de replicar el comportamiento de funciones ya existentes o no para C como son el printf.
+
+Sin embargo también se cuenta con un proyecto mas enfocado a sysadmin como es el Born2beRoot. En este ultimo hemos de montar un servidor ssh dentro de una maquina virtual para inicializar-nos con el mundo de la virtualización.
 
 ## [FDF](https://github.com/jsesbasti/FDF) | [PUSH_SWAP](https://github.com/jsesbasti/push_swap) | [MINITALK](https://github.com/jsesbasti/Minitalk) 😇✅
 En estos ejercicios, aprendemos a desarrollar nuestros primeros algoritmos en el [Push_Swap](https://github.com/jsesbasti/push_swap). Teniendo que ordenar una lista de numeros en la menor cantidad de movimientos posibles con unos movimientos determinados.
