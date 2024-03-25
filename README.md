@@ -8,6 +8,7 @@
 Libft se trata de un proyecto simple en el que has de crear una libreria de C para el tratamiento de strings.
 
 ## [FT_PRINTF](https://github.com/jsesbasti/ft_printf) | [GET_NEXT_LINE](https://github.com/jsesbasti/get_next_line) | BORN_2_BE_ROOT 😇✅
+De los proyectos anteriormente nombrados, tanto ft_printf como get_next_line, tratan de replicar el comportamiento de funciones ya existentes o no para C como son el printf.
 
 ## [FDF](https://github.com/jsesbasti/FDF) | [PUSH_SWAP](https://github.com/jsesbasti/push_swap) | [MINITALK](https://github.com/jsesbasti/Minitalk) 😇✅
 
