@@ -2,9 +2,7 @@
 
 ## ▪️ Github stats 📊
 
-![JSEBASTI GitHub stats](https://github-readme-stats.vercel.app/api?username=jsesbasti&show_icons=true&theme=github_dark)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jsesbasti&layout=compact&theme=github_dark)](https://github.com/jsesbasti/)
+![JSEBASTI GitHub stats](https://github-readme-stats.vercel.app/api?username=jsesbasti&show_icons=true&theme=github_dark)  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jsesbasti&layout=compact&theme=github_dark)](https://github.com/jsesbasti/)
 
 ## [FT_LIBFT](https://github.com/jsesbasti/libft) 😇✅
 [Libft](https://github.com/jsesbasti/libft) se trata de un proyecto simple en el que has de crear una libreria de C para el tratamiento de strings.
