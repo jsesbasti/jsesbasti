@@ -14,3 +14,9 @@ Some projects to relate
 | [WEBSERV](https://github.com/jsesbasti/webserv) | Recration of a webserver to act like a reverse_proxy if needed. Worked with Sockets and http status | C++, HTTP/1.1 |
 | [PEER2PONG](https://github.com/NullSquad/peer-2-pong) | Web page for 42 ping-pong leagues | NodeJS, JavaScript, React, Docker, AWS |
 
+### 🛠️ Tech Stack
+- **Backend  Development**: C/C++, Python (Django, REST APIs)
+- **Frontend  Development**: JavaScript, React, HTML
+- **DevOps & Tools**: Docker, Nginx, Git, UNIX systems
+- **Databases**: PostgreSQL, MongoDB, MySQL
+- **Collaboration**: Agile/SCRUM, Jira, Trello, Slack, Notion
