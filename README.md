@@ -11,7 +11,7 @@ Some projects to relate
 | PROJECT | DESCRIPTION | THECNOLOGIES |
 |---------|-------------|------|
 | [FT_TRANSCENDENCE](https://github.com/Gprada-T/ft_trascendence) | Web page to play classic PONG game, with registerd users, 3D graphics game and WebSockets for online players | Django, JavaScript, Docker, ThreeJS |
-| [WEBSERV](https://github.com/jsesbasti/webserv) | 
+| [WEBSERV](https://github.com/jsesbasti/webserv) | Recration of a webserver to act like a reverse_proxy if needed. Worked with Sockets and http status | C++, C |
 
 ## [FT_LIBFT](https://github.com/jsesbasti/libft) 😇✅
 [Libft](https://github.com/jsesbasti/libft) se trata de un proyecto simple en el que has de crear una libreria de C para el tratamiento de strings.
