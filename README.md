@@ -22,7 +22,7 @@ Sin embargo en [minitalk](https://github.com/jsesbasti/Minitalk) podemos observa
 ## [PHILOSOPHERS](https://github.com/jsesbasti/Philosophers) | [MINISHELL](https://github.com/jsesbasti/42_minishell) 😇✅
 Durante este circulo aprendemos a crear programas en los que se necesita de programación paralela. En el [philosophers](https://github.com/jsesbasti/Philosophers), tenemos un dilema en el que unos filosofos sentados en una mesa redonda han de comer espaguetis con dos tenedores pero solo tienen uno así que han de utilizar el tenedor del compañero de su derecha.
 
-En [minishell](https://github.com/jsesbasti/42_minishell), un proyecto de lo mas iteresante, trabajando por parejas hemos de recrear el comportamiento de bash con un programa escrito en C.
+En [minishell](https://github.com/jsesbasti/minishell), un proyecto de lo mas iteresante, trabajando por parejas hemos de recrear el comportamiento de bash con un programa escrito en C.
 
 ## [CPP00](https://github.com/jsesbasti/CPP42/tree/master/cpp00) | [CPP01](https://github.com/jsesbasti/CPP42/tree/master/cpp01) | [CPP02](https://github.com/jsesbasti/CPP42/tree/master/cpp02) | [CPP03](https://github.com/jsesbasti/CPP42/tree/master/cpp03) | [CPP04](https://github.com/jsesbasti/CPP42/tree/master/cpp04) | [CUB3D](https://github.com/puyma/cub3D) | NET_PRACTICE 😇✅
 
