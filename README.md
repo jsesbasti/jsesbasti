@@ -1,5 +1,5 @@
 # README
-
+<div align="center">
 ## ▪️ Github stats 📊
 
 ![JSEBASTI GitHub stats](https://github-readme-stats.vercel.app/api?username=jsesbasti&show_icons=true&theme=github_dark)  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jsesbasti&layout=compact&theme=github_dark)](https://github.com/jsesbasti/)
@@ -20,3 +20,4 @@ Some projects to relate
 - **DevOps & Tools**: Docker, Nginx, Git, UNIX systems
 - **Databases**: PostgreSQL, MongoDB, MySQL
 - **Collaboration**: Agile/SCRUM, Jira, Trello, Slack, Notion
+</div>
