@@ -4,6 +4,12 @@
 
 ![JSEBASTI GitHub stats](https://github-readme-stats.vercel.app/api?username=jsesbasti&show_icons=true&theme=github_dark)  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jsesbasti&layout=compact&theme=github_dark)](https://github.com/jsesbasti/)
 
+## PROJECTS WORKED ON
+
+| PROJECT | DESCRIPTION | THECNOLOGIES |
+|---------|-------------|------|
+| [FT_TRANSCENDENCE](https://github.com/Gprada-T/ft_trascendence) | In this project the goal is to make a SPA to play the classic PONG game | Django, JavaScript, Docker, ThreeJS |
+
 ## [FT_LIBFT](https://github.com/jsesbasti/libft) 😇✅
 [Libft](https://github.com/jsesbasti/libft) se trata de un proyecto simple en el que has de crear una libreria de C para el tratamiento de strings.
 
