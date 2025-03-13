@@ -12,5 +12,5 @@ Some projects to relate
 |---------|-------------|------|
 | [FT_TRANSCENDENCE](https://github.com/Gprada-T/ft_trascendence) | Web page to play classic PONG game, with registerd users, 3D graphics game and WebSockets for online players | Django, JavaScript, Docker, ThreeJS |
 | [WEBSERV](https://github.com/jsesbasti/webserv) | Recration of a webserver to act like a reverse_proxy if needed. Worked with Sockets and http status | C++, HTTP/1.1 |
-| [PEER2PONG](https://github.com/NullSquad/peer2pong) | Web page for 42 ping-pong leagues | NodeJS, JavaScript, React, Docker, AWS |
+| [PEER2PONG](https://github.com/NullSquad/peer-2-pong) | Web page for 42 ping-pong leagues | NodeJS, JavaScript, React, Docker, AWS |
 
