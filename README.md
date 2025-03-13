@@ -2,7 +2,7 @@
 <div align="center">
 
 ## 🛠️ Tech Stack
-- **Backend  Development**: C/C++, Python (Django, REST APIs)
+- **Backend  Development**: C/C++, Python (Django, REST APIs), NodeJS, Java
 - **Frontend  Development**: JavaScript, React, HTML
 - **DevOps & Tools**: Docker, Nginx, Git, UNIX systems
 - **Databases**: PostgreSQL, MongoDB, MySQL
